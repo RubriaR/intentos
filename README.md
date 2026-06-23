@@ -18,6 +18,8 @@
 
 ## Credits
 
+Developed for the course La máquina creadora, led by professor Iván Vergara García, Universidad de Salamanca.
+
 **Concept, Code, and Visual Design:** Rubria Rocha de Luna (with Gemini Pro AI Code Assistance)
 
 **Images:** Gemini Pro 2026
